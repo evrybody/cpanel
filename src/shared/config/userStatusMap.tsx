@@ -1,4 +1,4 @@
-import type { User } from "@/widgets/UsersTable";
+import type { User } from "@/widgets/user/UsersTable";
 
 const STATUS_MAP: Record<User["status"], { label: string; className: string }> = {
   active: { label: "Active", className: "bg-green-100 text-green-700" },
