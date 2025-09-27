@@ -1,0 +1,429 @@
+[
+  {
+    "id": "1",
+    "transactions": [
+      {
+        "id": "TX-1001",
+        "type": "Deposit",
+        "amount": 1500,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-21",
+        "paymentMethod": "Visa"
+      },
+      {
+        "id": "TX-1002",
+        "type": "Withdrawal",
+        "amount": 500,
+        "currency": "EUR",
+        "status": "pending",
+        "date": "2025-09-25",
+        "paymentMethod": "MasterCard"
+      },
+      {
+        "id": "TX-1003",
+        "type": "Deposit",
+        "amount": 2200,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-18",
+        "paymentMethod": "Crypto (USDT)"
+      },
+      {
+        "id": "TX-1004",
+        "type": "Withdrawal",
+        "amount": 800,
+        "currency": "RUB",
+        "status": "failed",
+        "date": "2025-09-19",
+        "paymentMethod": "Qiwi"
+      },
+      {
+        "id": "TX-1005",
+        "type": "Deposit",
+        "amount": 900,
+        "currency": "EUR",
+        "status": "success",
+        "date": "2025-09-15",
+        "paymentMethod": "Skrill"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "transactions": [
+      {
+        "id": "TX-2001",
+        "type": "Deposit",
+        "amount": 300,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-22",
+        "paymentMethod": "Visa"
+      },
+      {
+        "id": "TX-2002",
+        "type": "Deposit",
+        "amount": 450,
+        "currency": "EUR",
+        "status": "pending",
+        "date": "2025-09-23",
+        "paymentMethod": "Crypto (BTC)"
+      },
+      {
+        "id": "TX-2003",
+        "type": "Withdrawal",
+        "amount": 200,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-25",
+        "paymentMethod": "MasterCard"
+      },
+      {
+        "id": "TX-2004",
+        "type": "Deposit",
+        "amount": 700,
+        "currency": "RUB",
+        "status": "failed",
+        "date": "2025-09-20",
+        "paymentMethod": "Qiwi"
+      },
+      {
+        "id": "TX-2005",
+        "type": "Withdrawal",
+        "amount": 150,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-26",
+        "paymentMethod": "Bank Transfer"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "transactions": [
+      {
+        "id": "TX-3001",
+        "type": "Deposit",
+        "amount": 500,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-19",
+        "paymentMethod": "Visa"
+      },
+      {
+        "id": "TX-3002",
+        "type": "Withdrawal",
+        "amount": 250,
+        "currency": "EUR",
+        "status": "pending",
+        "date": "2025-09-22",
+        "paymentMethod": "Skrill"
+      },
+      {
+        "id": "TX-3003",
+        "type": "Deposit",
+        "amount": 1000,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-24",
+        "paymentMethod": "Crypto (USDT)"
+      },
+      {
+        "id": "TX-3004",
+        "type": "Withdrawal",
+        "amount": 400,
+        "currency": "RUB",
+        "status": "success",
+        "date": "2025-09-25",
+        "paymentMethod": "Qiwi"
+      },
+      {
+        "id": "TX-3005",
+        "type": "Deposit",
+        "amount": 750,
+        "currency": "EUR",
+        "status": "failed",
+        "date": "2025-09-23",
+        "paymentMethod": "Neteller"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "transactions": [
+      {
+        "id": "TX-4001",
+        "type": "Deposit",
+        "amount": 1200,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-21",
+        "paymentMethod": "Visa"
+      },
+      {
+        "id": "TX-4002",
+        "type": "Withdrawal",
+        "amount": 900,
+        "currency": "USD",
+        "status": "failed",
+        "date": "2025-09-23",
+        "paymentMethod": "Crypto (USDT)"
+      },
+      {
+        "id": "TX-4003",
+        "type": "Deposit",
+        "amount": 500,
+        "currency": "EUR",
+        "status": "success",
+        "date": "2025-09-24",
+        "paymentMethod": "MasterCard"
+      },
+      {
+        "id": "TX-4004",
+        "type": "Withdrawal",
+        "amount": 700,
+        "currency": "RUB",
+        "status": "success",
+        "date": "2025-09-25",
+        "paymentMethod": "Qiwi"
+      },
+      {
+        "id": "TX-4005",
+        "type": "Deposit",
+        "amount": 650,
+        "currency": "EUR",
+        "status": "pending",
+        "date": "2025-09-26",
+        "paymentMethod": "Neteller"
+      },
+      {
+        "id": "TX-4006",
+        "type": "Withdrawal",
+        "amount": 350,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-27",
+        "paymentMethod": "Bank Transfer"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "transactions": [
+      {
+        "id": "TX-5001",
+        "type": "Deposit",
+        "amount": 400,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-18",
+        "paymentMethod": "Visa"
+      },
+      {
+        "id": "TX-5002",
+        "type": "Deposit",
+        "amount": 800,
+        "currency": "EUR",
+        "status": "success",
+        "date": "2025-09-22",
+        "paymentMethod": "Crypto (BTC)"
+      },
+      {
+        "id": "TX-5003",
+        "type": "Withdrawal",
+        "amount": 250,
+        "currency": "RUB",
+        "status": "pending",
+        "date": "2025-09-24",
+        "paymentMethod": "Qiwi"
+      },
+      {
+        "id": "TX-5004",
+        "type": "Deposit",
+        "amount": 1000,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-25",
+        "paymentMethod": "MasterCard"
+      },
+      {
+        "id": "TX-5005",
+        "type": "Withdrawal",
+        "amount": 500,
+        "currency": "EUR",
+        "status": "failed",
+        "date": "2025-09-26",
+        "paymentMethod": "Skrill"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "transactions": [
+      {
+        "id": "TX-6001",
+        "type": "Deposit",
+        "amount": 700,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-19",
+        "paymentMethod": "Visa"
+      },
+      {
+        "id": "TX-6002",
+        "type": "Withdrawal",
+        "amount": 300,
+        "currency": "EUR",
+        "status": "success",
+        "date": "2025-09-20",
+        "paymentMethod": "MasterCard"
+      },
+      {
+        "id": "TX-6003",
+        "type": "Deposit",
+        "amount": 900,
+        "currency": "USD",
+        "status": "pending",
+        "date": "2025-09-22",
+        "paymentMethod": "Crypto (USDT)"
+      },
+      {
+        "id": "TX-6004",
+        "type": "Withdrawal",
+        "amount": 400,
+        "currency": "RUB",
+        "status": "success",
+        "date": "2025-09-23",
+        "paymentMethod": "Qiwi"
+      },
+      {
+        "id": "TX-6005",
+        "type": "Deposit",
+        "amount": 1200,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-25",
+        "paymentMethod": "Bank Transfer"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "transactions": [
+      {
+        "id": "TX-7001",
+        "type": "Deposit",
+        "amount": 1500,
+        "currency": "EUR",
+        "status": "success",
+        "date": "2025-09-21",
+        "paymentMethod": "Visa"
+      },
+      {
+        "id": "TX-7002",
+        "type": "Withdrawal",
+        "amount": 700,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-22",
+        "paymentMethod": "MasterCard"
+      },
+      {
+        "id": "TX-7003",
+        "type": "Deposit",
+        "amount": 1000,
+        "currency": "RUB",
+        "status": "failed",
+        "date": "2025-09-23",
+        "paymentMethod": "Qiwi"
+      },
+      {
+        "id": "TX-7004",
+        "type": "Deposit",
+        "amount": 400,
+        "currency": "USD",
+        "status": "pending",
+        "date": "2025-09-24",
+        "paymentMethod": "Crypto (USDT)"
+      },
+      {
+        "id": "TX-7005",
+        "type": "Withdrawal",
+        "amount": 600,
+        "currency": "EUR",
+        "status": "success",
+        "date": "2025-09-25",
+        "paymentMethod": "Bank Transfer"
+      },
+      {
+        "id": "TX-7006",
+        "type": "Deposit",
+        "amount": 850,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-27",
+        "paymentMethod": "Skrill"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "transactions": [
+      {
+        "id": "TX-8001",
+        "type": "Deposit",
+        "amount": 950,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-18",
+        "paymentMethod": "Visa"
+      },
+      {
+        "id": "TX-8002",
+        "type": "Withdrawal",
+        "amount": 450,
+        "currency": "EUR",
+        "status": "pending",
+        "date": "2025-09-19",
+        "paymentMethod": "MasterCard"
+      },
+      {
+        "id": "TX-8003",
+        "type": "Deposit",
+        "amount": 1100,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-21",
+        "paymentMethod": "Crypto (USDT)"
+      },
+      {
+        "id": "TX-8004",
+        "type": "Withdrawal",
+        "amount": 600,
+        "currency": "RUB",
+        "status": "success",
+        "date": "2025-09-23",
+        "paymentMethod": "Qiwi"
+      },
+      {
+        "id": "TX-8005",
+        "type": "Deposit",
+        "amount": 500,
+        "currency": "EUR",
+        "status": "failed",
+        "date": "2025-09-25",
+        "paymentMethod": "Neteller"
+      },
+      {
+        "id": "TX-8006",
+        "type": "Withdrawal",
+        "amount": 250,
+        "currency": "USD",
+        "status": "success",
+        "date": "2025-09-26",
+        "paymentMethod": "Bank Transfer"
+      }
+    ]
+  }
+]

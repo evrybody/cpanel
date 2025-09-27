@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "status": "banned",
+    "reasone": "1.3.5 (Self-exclusion)",
+    "data": "09.27.2025"
+  },
+  {
+    "id": "4",
+    "status": "blocked",
+    "reasone": "4.2 (multiaccounted)",
+    "data": null
+  },
+  {
+    "id": "5",
+    "status": "blocked",
+    "reasone": "4.1 (Chargeback detected)",
+    "data": null
+  },
+  {
+    "id": "7",
+    "status": "banned",
+    "reasone": "2.1 (Responsible gambling request)",
+    "data": "09.26.2025"
+  },
+  {
+    "id": "9",
+    "status": "blocked",
+    "reasone": "3.4 (Fraudulent behavior)",
+    "data": null
+  },
+  {
+    "id": "10",
+    "status": "blocked",
+    "reasone": "4.2 (multiaccounted)",
+    "data": null
+  },
+  {
+    "id": "11",
+    "status": "banned",
+    "reasone": "1.3.5 (Self-exclusion)",
+    "data": "09.18.2025"
+  },
+  {
+    "id": "14",
+    "status": "blocked",
+    "reasone": "5.1 (Suspicious transactions)",
+    "data": null
+  },
+  {
+    "id": "15",
+    "status": "banned",
+    "reasone": "2.3 (Requested permanent exclusion)",
+    "data": "09.15.2025"
+  },
+  {
+    "id": "18",
+    "status": "blocked",
+    "reasone": "4.3 (Abuse of bonuses)",
+    "data": null
+  },
+  {
+    "id": "19",
+    "status": "banned",
+    "reasone": "3.1 (Underage gambling)",
+    "data": "09.14.2025"
+  },
+  {
+    "id": "20",
+    "status": "banned",
+    "reasone": "4.1 (Chargeback detected)",
+    "data": "09.14.2025"
+  },
+  {
+    "id": "21",
+    "status": "banned",
+    "reasone": "2.4 (Self-limitation exceeded)",
+    "data": "09.10.2025"
+  },
+  {
+    "id": "23",
+    "status": "blocked",
+    "reasone": "5.2 (KYC verification failed)",
+    "data": null
+  },
+  {
+    "id": "25",
+    "status": "blocked",
+    "reasone": "4.3 (Abuse of bonuses)",
+    "data": null
+  },
+  {
+    "id": "26",
+    "status": "blocked",
+    "reasone": "5.3 (Suspicious login patterns)",
+    "data": null
+  }
+]

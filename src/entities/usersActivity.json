@@ -1,0 +1,290 @@
+[
+  {
+    "id": "1",
+    "activity": [
+      {
+        "id": "1",
+        "date": "2025-09-15",
+        "slot": "The Dog House",
+        "bet": 1000,
+        "winnings": 2500
+      },
+      {
+        "id": "2",
+        "date": "2025-09-16",
+        "slot": "Sweet Bonanza",
+        "bet": 500,
+        "winnings": 0
+      },
+      {
+        "id": "3",
+        "date": "2025-09-17",
+        "slot": "Gates of Olympus",
+        "bet": 2000,
+        "winnings": 0
+      },
+      {
+        "id": "4",
+        "date": "2025-09-20",
+        "slot": "Big Bass Bonanza",
+        "bet": 700,
+        "winnings": 2100
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "activity": [
+      {
+        "id": "1",
+        "date": "2025-09-18",
+        "slot": "Sugar Rush",
+        "bet": 800,
+        "winnings": 0
+      },
+      {
+        "id": "2",
+        "date": "2025-09-19",
+        "slot": "Fruit Party",
+        "bet": 600,
+        "winnings": 1800
+      },
+      {
+        "id": "3",
+        "date": "2025-09-20",
+        "slot": "The Dog House Megaways",
+        "bet": 1000,
+        "winnings": 0
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "activity": [
+      {
+        "id": "1",
+        "date": "2025-09-14",
+        "slot": "Starlight Princess",
+        "bet": 1500,
+        "winnings": 4500
+      },
+      {
+        "id": "2",
+        "date": "2025-09-15",
+        "slot": "Gates of Olympus",
+        "bet": 1000,
+        "winnings": 0
+      },
+      {
+        "id": "3",
+        "date": "2025-09-18",
+        "slot": "Wild West Gold",
+        "bet": 500,
+        "winnings": 1250
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "activity": [
+      {
+        "id": "1",
+        "date": "2025-09-13",
+        "slot": "Big Bass Bonanza",
+        "bet": 400,
+        "winnings": 1200
+      },
+      {
+        "id": "2",
+        "date": "2025-09-15",
+        "slot": "Fruit Party 2",
+        "bet": 600,
+        "winnings": 0
+      },
+      {
+        "id": "3",
+        "date": "2025-09-19",
+        "slot": "Sugar Rush",
+        "bet": 900,
+        "winnings": 0
+      },
+      {
+        "id": "4",
+        "date": "2025-09-20",
+        "slot": "The Dog House",
+        "bet": 700,
+        "winnings": 350
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "activity": [
+      {
+        "id": "1",
+        "date": "2025-09-14",
+        "slot": "Sweet Bonanza",
+        "bet": 500,
+        "winnings": 1000
+      },
+      {
+        "id": "2",
+        "date": "2025-09-17",
+        "slot": "Starlight Princess",
+        "bet": 1500,
+        "winnings": 0
+      },
+      {
+        "id": "3",
+        "date": "2025-09-18",
+        "slot": "Fruit Party",
+        "bet": 800,
+        "winnings": 0
+      },
+      {
+        "id": "4",
+        "date": "2025-09-21",
+        "slot": "Big Bass Splash",
+        "bet": 1000,
+        "winnings": 5000
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "activity": [
+      {
+        "id": "1",
+        "date": "2025-09-12",
+        "slot": "Gates of Olympus",
+        "bet": 700,
+        "winnings": 0
+      },
+      {
+        "id": "2",
+        "date": "2025-09-15",
+        "slot": "The Dog House Megaways",
+        "bet": 1000,
+        "winnings": 3000
+      },
+      {
+        "id": "3",
+        "date": "2025-09-16",
+        "slot": "Wild West Duels",
+        "bet": 500,
+        "winnings": 0
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "activity": [
+      {
+        "id": "1",
+        "date": "2025-09-14",
+        "slot": "Sugar Rush",
+        "bet": 900,
+        "winnings": 0
+      },
+      {
+        "id": "2",
+        "date": "2025-09-15",
+        "slot": "The Dog House",
+        "bet": 1200,
+        "winnings": 2400
+      },
+      {
+        "id": "3",
+        "date": "2025-09-19",
+        "slot": "Big Bass Bonanza",
+        "bet": 600,
+        "winnings": 0
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "activity": [
+      {
+        "id": "1",
+        "date": "2025-09-13",
+        "slot": "Starlight Princess",
+        "bet": 700,
+        "winnings": 1400
+      },
+      {
+        "id": "2",
+        "date": "2025-09-17",
+        "slot": "Gates of Olympus",
+        "bet": 1000,
+        "winnings": 0
+      },
+      {
+        "id": "3",
+        "date": "2025-09-18",
+        "slot": "Fruit Party 2",
+        "bet": 500,
+        "winnings": 0
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "activity": [
+      {
+        "id": "1",
+        "date": "2025-09-12",
+        "slot": "Sweet Bonanza Xmas",
+        "bet": 1000,
+        "winnings": 2000
+      },
+      {
+        "id": "2",
+        "date": "2025-09-14",
+        "slot": "The Dog House Megaways",
+        "bet": 600,
+        "winnings": 0
+      },
+      {
+        "id": "3",
+        "date": "2025-09-15",
+        "slot": "Big Bass Bonanza",
+        "bet": 400,
+        "winnings": 800
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "activity": [
+      {
+        "id": "1",
+        "date": "2025-09-11",
+        "slot": "Fruit Party",
+        "bet": 500,
+        "winnings": 0
+      },
+      {
+        "id": "2",
+        "date": "2025-09-13",
+        "slot": "Gates of Olympus",
+        "bet": 1500,
+        "winnings": 0
+      },
+      {
+        "id": "3",
+        "date": "2025-09-16",
+        "slot": "The Dog House",
+        "bet": 700,
+        "winnings": 350
+      },
+      {
+        "id": "4",
+        "date": "2025-09-18",
+        "slot": "Sweet Bonanza",
+        "bet": 1000,
+        "winnings": 2500
+      }
+    ]
+  }
+]
