@@ -1,6 +1,6 @@
 import user from "@/entities/users.json";
 
-export function foundUser(id: string) {
+function foundUser(id: string) {
   const response = user.find((u) => u.id === id);
   return response ?? null;
 }
