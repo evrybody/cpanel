@@ -25,9 +25,7 @@ export default function Header({ children }: { children: React.ReactNode }) {
         </div>
       </header>
       {/* Контент */}
-      <main className="flex-1 bg-[oklch(0.269_0_0)] overflow-auto my-20">
-        {children}
-      </main>
+      <main className="overflow-auto my-20">{children}</main>
     </>
   );
 }
